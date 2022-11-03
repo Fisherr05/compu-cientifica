@@ -1,0 +1,11 @@
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\bin\Release\WinAppPixelcito.exe.config
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\bin\Release\WinAppPixelcito.exe
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\bin\Release\WinAppPixelcito.pdb
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\obj\Release\WinAppPixelcito.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\obj\Release\WinAppPixelcito.Form1.resources
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\obj\Release\WinAppPixelcito.Properties.Resources.resources
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\obj\Release\WinAppPixelcito.csproj.GenerateResource.cache
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\obj\Release\WinAppPixelcito.csproj.CoreCompileInputs.cache
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\obj\Release\WinAppPixelcito.exe
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\obj\Release\WinAppPixelcito.pdb
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\obj\Release\WinAppPixelcito.csproj.AssemblyReference.cache

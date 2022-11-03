@@ -1,0 +1,22 @@
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\bin\Debug\WinAppPixelcito.exe.config
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\bin\Debug\WinAppPixelcito.exe
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\bin\Debug\WinAppPixelcito.pdb
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\obj\Debug\WinAppPixelcito.csproj.AssemblyReference.cache
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\obj\Debug\WinAppPixelcito.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\obj\Debug\WinAppPixelcito.Form1.resources
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\obj\Debug\WinAppPixelcito.Properties.Resources.resources
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\obj\Debug\WinAppPixelcito.csproj.GenerateResource.cache
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\obj\Debug\WinAppPixelcito.csproj.CoreCompileInputs.cache
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\obj\Debug\WinAppPixelcito.exe
+C:\Users\Fiallos-PC\source\repos\WinAppPixelcito\WinAppPixelcito\obj\Debug\WinAppPixelcito.pdb
+D:\Fiallos Bejarano\Documents\Visual Studio 2022\Projects\WinAppPixelcito\WinAppPixelcito\bin\Debug\WinAppPixelcito.exe.config
+D:\Fiallos Bejarano\Documents\Visual Studio 2022\Projects\WinAppPixelcito\WinAppPixelcito\bin\Debug\WinAppPixelcito.exe
+D:\Fiallos Bejarano\Documents\Visual Studio 2022\Projects\WinAppPixelcito\WinAppPixelcito\bin\Debug\WinAppPixelcito.pdb
+D:\Fiallos Bejarano\Documents\Visual Studio 2022\Projects\WinAppPixelcito\WinAppPixelcito\obj\Debug\WinAppPixelcito.csproj.AssemblyReference.cache
+D:\Fiallos Bejarano\Documents\Visual Studio 2022\Projects\WinAppPixelcito\WinAppPixelcito\obj\Debug\WinAppPixelcito.csproj.SuggestedBindingRedirects.cache
+D:\Fiallos Bejarano\Documents\Visual Studio 2022\Projects\WinAppPixelcito\WinAppPixelcito\obj\Debug\WinAppPixelcito.Form1.resources
+D:\Fiallos Bejarano\Documents\Visual Studio 2022\Projects\WinAppPixelcito\WinAppPixelcito\obj\Debug\WinAppPixelcito.Properties.Resources.resources
+D:\Fiallos Bejarano\Documents\Visual Studio 2022\Projects\WinAppPixelcito\WinAppPixelcito\obj\Debug\WinAppPixelcito.csproj.GenerateResource.cache
+D:\Fiallos Bejarano\Documents\Visual Studio 2022\Projects\WinAppPixelcito\WinAppPixelcito\obj\Debug\WinAppPixelcito.csproj.CoreCompileInputs.cache
+D:\Fiallos Bejarano\Documents\Visual Studio 2022\Projects\WinAppPixelcito\WinAppPixelcito\obj\Debug\WinAppPixelcito.exe
+D:\Fiallos Bejarano\Documents\Visual Studio 2022\Projects\WinAppPixelcito\WinAppPixelcito\obj\Debug\WinAppPixelcito.pdb
